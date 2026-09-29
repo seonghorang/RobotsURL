@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /mecsearch/search.do
+Disallow: /kor/search.do
+
+User-agent: *
+Allow: /

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/groups/
+Disallow:/election/
+Disallow:/images/
+Disallow:/search/
+Disallow:/planweb/board/

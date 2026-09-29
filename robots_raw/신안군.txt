@@ -1,0 +1,22 @@
+#  ROBOTS.TXT
+User-agent: *
+Disallow: /open_content/life/participation/
+Disallow: /home/www/minwon/statement/
+Disallow: /home/www/participation/participation_01/participation_01_01/
+Disallow: /home/business/
+Disallow: /home/www/support/search/
+Disallow: /home/www/openinfo/participation_07/participation_07_04/
+Disallow: /home/www/takepart/takepart_02/
+Disallow: /home/www/takepart/inhabitant/board/
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /

@@ -1,0 +1,9 @@
+User-agent: Yeti
+Allow:/
+
+User-agent: Googlebot
+Disallow: /search/search.do
+Disallow: /cop/bbs/
+
+User-agent: GPTBot
+Disallow: /cop/bbs/

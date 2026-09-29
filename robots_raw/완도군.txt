@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:/groups/
+Disallow:/election/
+Disallow:/images/
+Disallow:/search/
+Disallow:/download/
+Disallow:/contents/
+Disallow:/*pBoardId*
+

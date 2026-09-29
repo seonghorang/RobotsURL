@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /data/www/goesan/NeoCMS_GOESAN/repository/bbs/*
+
+User-agent: *
+Disallow: /repository/bbs/*
+
+User-agent: *
+Disallow: /data/www/goesan/NeoCMS_GOESAN/DATA/*
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /*/selectBbsNttList.do

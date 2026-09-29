@@ -1,0 +1,6 @@
+User-agent: ŁŞ
+Disallow: /
+User-agent: Yeti
+Allow: /
+Disallow: /board.do?S=S01&M=040108000000&b_code=0000000209
+Disallow: /board.do?S=S01&M=040101000000&b_code=0000000068

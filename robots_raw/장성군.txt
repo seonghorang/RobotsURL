@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /home/business/
+Disallow: /home/jssports/_
+Disallow: /home/www/support/search/
+Allow: /home/jssports/_user/
+Allow: /home/jssports/_cmm/
+Allow: /home/jssports/_source/css/
+Allow: /home/jssports/_source/js/
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+Sitemap: https://www.jangseong.go.kr/home/jssports/sitemap.xml

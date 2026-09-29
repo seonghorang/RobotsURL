@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /home/business/
+Disallow: /home/www/support/search/
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /

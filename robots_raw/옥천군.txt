@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /search/
+Disallow: /synap/
+Disallow: /lib/
+Disallow: *preview* 
+Disallow: *Ntt*
+Disallow: *Photo*
+Disallow: *photo*
+Disallow: *download*
+Allow: /

@@ -1,0 +1,17 @@
+User-agent: Yeti
+User-agent: Daum
+User-agent: Daumoa
+Allow : /kr/
+Allow : /en/
+Allow : /jp/
+Allow : /cn/
+Allow : /bridge/
+
+User-agent: Googlebot
+Disallow: /search/front/Search.jsp
+Disallow: /bbs/
+Allow : /kr/
+Allow : /en/
+Allow : /jp/
+Allow : /cn/
+Allow : /bridge/

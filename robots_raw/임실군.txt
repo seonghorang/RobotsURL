@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow : /
+
+User-agent: *
+Disallow: /search
+Disallow : /board/download.imsil
+Disallow : /synap
+Allow: /
+Crawl-delay:20

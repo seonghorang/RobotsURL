@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Googlebot 접근 차단
+User-agent: Googlebot
+Disallow: /board/list?boardId=BBS_0000123&domainId=DOM_0000001&contentsSid=16&menuCd=DOM_000000190002001001
+Disallow: /board/list?boardId=BBS_0000027&domainId=DOM_0000001&contentsSid=18&menuCd=DOM_000000190002002001
+Disallow: /board/list?boardId=BBS_0000029&domainId=DOM_0000001&contentsSid=19&menuCd=DOM_000000190002002002
+Disallow: /board/list?boardId=BBS_0000194&domainId=DOM_0000001&contentsSid=20&menuCd=DOM_000000190002002003
+Disallow: /board/list?boardId=BBS_0000444&domainId=DOM_0000001&contentsSid=806&menuCd=DOM_000000190002002005
+Disallow: /board/list?boardId=BBS_0000235&domainId=DOM_0000001&contentsSid=34&menuCd=DOM_000000190002006002
+Disallow: /board/list?boardId=BBS_0000184&domainId=DOM_0000003&contentsSid=396&menuCd=DOM_000000305006002000
+Disallow: /board/list?boardId=BBS_0000088&domainId=DOM_0000003&contentsSid=403&menuCd=DOM_000000306003000000
+Disallow: /board/list?boardId=BBS_0000087&domainId=DOM_0000003&contentsSid=402&menuCd=DOM_000000306002002000

@@ -1,0 +1,10 @@
+#DaumWebMasterTool:a2c806280dec99d71764bd390f2a71ef8d89384b65cafb86f7ae1b7fe9c4ce32:HAuVlP5jsf22zj86V1drMQ==
+
+User-agent: *
+Disallow: /upload/
+Disallow: /viewer/
+Disallow: /home/board/
+
+Disallow: /job/sub.do
+Disallow: /module/html/m_job/
+Disallow: /*?*wantedAuthNo=*

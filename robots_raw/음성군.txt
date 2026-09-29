@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search/
+User-agent: Googlebot
+Disallow:/esatc/selectBbsNttList.do?bbsNo=78&key=1006
+Disallow:/esyouth/selectBbsNttList.do?bbsNo=57&key=748
+Disallow:/www/selectBbsNttList.do?bbsNo=5&key=179
+Disallow:/www/selectBbsNttList.do?bbsNo=7&key=181
+Disallow:/www/selectBbsNttList.do?bbsNo=22&key=180

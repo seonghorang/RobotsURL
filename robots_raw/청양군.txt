@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /jejung/
+Disallow: /photo/
+Disallow: /viewer/
+
+User-agent: Googlebot
+Disallow: /RSA/front/Search.jsp
+Disallow: /cop/bbs/

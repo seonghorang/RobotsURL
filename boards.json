@@ -1,0 +1,292 @@
+[
+  {
+    "county": "장수군",
+    "board": "공지사항",
+    "url": "https://www.jangsu.go.kr/index.jangsu?menuCd=DOM_000000102001001000"
+  },
+  {
+    "county": "장수군",
+    "board": "고시·공고·예고",
+    "url": "https://www.jangsu.go.kr/index.jangsu?menuCd=DOM_000000102001005000"
+  },
+  {
+    "county": "임실군",
+    "board": "공지사항",
+    "url": "https://www.imsil.go.kr/board/list.imsil?boardId=BBS_0000002&menuCd=DOM_000000103001001000&contentsSid=161&cpath="
+  },
+  {
+    "county": "임실군",
+    "board": "고시/공고",
+    "url": "https://www.imsil.go.kr/index.imsil?menuCd=DOM_000000103001005000"
+  },
+  {
+    "county": "순창군",
+    "board": "공지사항",
+    "url": "https://www.sunchang.go.kr/index.do?menuUid=ff8080819a2f0e3b019a5d1b0c40164a"
+  },
+  {
+    "county": "순창군",
+    "board": "고시공고",
+    "url": "https://eminwon.sunchang.go.kr/emwp/jsp/ofr/OfrNotAncmtLSub.jsp?not_ancmt_se_code=01,02,03,04,05"
+  },
+  {
+    "county": "화순군",
+    "board": "공지사항",
+    "url": "https://www.hwasun.go.kr/contents.do?S=S01&M=020102000000"
+  },
+  {
+    "county": "화순군",
+    "board": "고시/공고",
+    "url": "https://www.hwasun.go.kr/contents.do?S=S01&M=020104000000"
+  },
+  {
+    "county": "화순군",
+    "board": "귀농귀촌 공지사항",
+    "url": "https://www.hwasun.go.kr/contents.do?S=S01&M=050607000000"
+  },
+  {
+    "county": "장흥군",
+    "board": "공지사항",
+    "url": "https://www.jangheung.go.kr/www/organization/news/notice"
+  },
+  {
+    "county": "장흥군",
+    "board": "고시공고",
+    "url": "https://www.jangheung.go.kr/www/organization/news/notification"
+  },
+  {
+    "county": "증평군",
+    "board": "공지사항",
+    "url": "https://www.jp.go.kr/kor/cop/bbs/BBSMSTR_000000000134/selectBoardList.do"
+  },
+  {
+    "county": "증평군",
+    "board": "모집/공고",
+    "url": "https://www.jp.go.kr/kor/sub03_01_03.do"
+  },
+  {
+    "county": "괴산군",
+    "board": "공지사항",
+    "url": "https://www.goesan.go.kr/www/selectBbsNttList.do?bbsNo=190&key=135"
+  },
+  {
+    "county": "단양군",
+    "board": "공지사항",
+    "url": "https://www.danyang.go.kr/dy21/975"
+  },
+  {
+    "county": "단양군",
+    "board": "고시공고",
+    "url": "https://www.danyang.go.kr/dy21/976"
+  },
+  {
+    "county": "단양군",
+    "board": "농업축산분야 공지사항",
+    "url": "https://www.danyang.go.kr/dy21/872"
+  },
+  {
+    "county": "청양군",
+    "board": "고시/공고",
+    "url": "https://www.cheongyang.go.kr/kor/sub04_02_03.do"
+  },
+  {
+    "county": "완주군",
+    "board": "공지사항",
+    "url": "https://www.wanju.go.kr/planweb/board/list.9is?contentUid=ff8080818b024d8e018b274f3fdd2ae2&boardUid=ff8080818a49961a018ab011af3543bc&categoryUid2=ff8080818bc7fa7c018bd69c596z9039&contentUid=ff8080818b024d8e018b274f3fdd2ae2&subPath="
+  },
+  {
+    "county": "완주군",
+    "board": "고시/공고",
+    "url": "https://www.wanju.go.kr/index.9is?contentUid=ff8080818b024d8e018b274f41dd2af8"
+  },
+  {
+    "county": "진안군",
+    "board": "공지사항",
+    "url": "https://www.jinan.go.kr/board/list.jinan?boardId=BBS_0000026&menuCd=DOM_000000107001001000&contentsSid=179&cpath="
+  },
+  {
+    "county": "진안군",
+    "board": "고시/공고",
+    "url": "https://www.jinan.go.kr/index.jinan?menuCd=DOM_000000107001014000"
+  },
+  {
+    "county": "무주군",
+    "board": "공지사항",
+    "url": "https://www.muju.go.kr/planweb/board/list.9is?contentUid=ff8080816c5f9d47016cbd3ae19f006b&boardUid=ff8080816d135a54016d1ecde9d8001a&contentUid=ff8080816c5f9d47016cbd3ae19f006b&subPath="
+  },
+  {
+    "county": "무주군",
+    "board": "고시/공고",
+    "url": "https://www.muju.go.kr/index.9is?contentUid=ff8080816c5f9d47016cbd3b2a4a006f"
+  },
+  {
+    "county": "고창군",
+    "board": "공지사항",
+    "url": "https://www.gochang.go.kr/board/list.gochang?boardId=BBS_0000083&menuCd=DOM_000000102001001000&contentsSid=234"
+  },
+  {
+    "county": "고창군",
+    "board": "고시/공고",
+    "url": "https://www.gochang.go.kr/board/list.gochang?boardId=BBS_0000180&menuCd=DOM_000000102003007000&contentsSid=2682"
+  },
+  {
+    "county": "부안군",
+    "board": "공지사항",
+    "url": "https://www.buan.go.kr/board/list.buan?boardId=BBS_0000052&menuCd=DOM_000000103001001000&contentsSid=82&cpath="
+  },
+  {
+    "county": "부안군",
+    "board": "고시/공고",
+    "url": "https://www.buan.go.kr/board/list.buan?boardId=BBS_0000054&menuCd=DOM_000000103001003000&contentsSid=84&cpath="
+  },
+  {
+    "county": "담양군",
+    "board": "공지사항",
+    "url": "https://www.damyang.go.kr/board/list?domainId=DOM_0000001&boardId=BBS_0000001&contentsSid=1&menuCd=DOM_000000190001001000"
+  },
+  {
+    "county": "담양군",
+    "board": "고시/공고",
+    "url": "https://www.damyang.go.kr/eminwon/searchList?domainId=DOM_0000001&contentsSid=2&menuCd=DOM_000000190001002001&boardType=special&listType=01#pageIdx=1"
+  },
+  {
+    "county": "곡성군",
+    "board": "공지사항",
+    "url": "https://www.gokseong.go.kr/kr/board/list.do?bbsId=BBS_000000000000150&menuNo=102001001000"
+  },
+  {
+    "county": "곡성군",
+    "board": "고시/공고",
+    "url": "https://www.gokseong.go.kr/board/GosiList.do?menuNo=102001003000"
+  },
+  {
+    "county": "해남군",
+    "board": "공지사항",
+    "url": "https://www.haenam.go.kr/planweb/board/list.9is?contentUid=18e3368f5d745106015de95ebe732057&boardUid=18e3368f5fb80fdc015fdc42b7e003e0&contentUid=18e3368f5d745106015de95ebe732057"
+  },
+  {
+    "county": "해남군",
+    "board": "고시/공고",
+    "url": "https://www.haenam.go.kr/index.9is?contentUid=18e3368f7913117f017915ea3b971122"
+  },
+  {
+    "county": "영암군",
+    "board": "공지사항",
+    "url": "https://www.yeongam.go.kr/home/www/open_information/yeongam_news/yeongam.go"
+  },
+  {
+    "county": "영암군",
+    "board": "고시/공고",
+    "url": "https://www.yeongam.go.kr/home/www/open_information/yeongam_news/announcement/yeongam.go"
+  },
+  {
+    "county": "함평군",
+    "board": "공지사항",
+    "url": "https://www.hampyeong.go.kr/boardList.do?boardId=NOTICE&pageId=www272"
+  },
+  {
+    "county": "함평군",
+    "board": "고시/공고",
+    "url": "https://www.hampyeong.go.kr/pg/GosiList.do?pageId=www273"
+  },
+  {
+    "county": "장성군",
+    "board": "공지사항",
+    "url": "https://www.jangseong.go.kr/home/www/news/jangseong/notice"
+  },
+  {
+    "county": "장성군",
+    "board": "고시/공고",
+    "url": "https://www.jangseong.go.kr/home/www/news/jangseong/announcement"
+  },
+  {
+    "county": "완도군",
+    "board": "공지사항",
+    "url": "https://www.wando.go.kr/wando/sub.cs?m=298"
+  },
+  {
+    "county": "완도군",
+    "board": "고시/공고",
+    "url": "https://www.wando.go.kr/wando/sub.cs?m=318"
+  },
+  {
+    "county": "진도군",
+    "board": "공지사항",
+    "url": "https://www.jindo.go.kr/home/board/B0052.cs?m=23"
+  },
+  {
+    "county": "진도군",
+    "board": "고시/공고",
+    "url": "https://www.jindo.go.kr/home/gosi/general.cs?m=878"
+  },
+  {
+    "county": "보은군",
+    "board": "공지사항",
+    "url": "https://www.boeun.go.kr/www/selectBbsNttList.do?bbsNo=4&key=134"
+  },
+  {
+    "county": "보은군",
+    "board": "고시/공고",
+    "url": "https://www.boeun.go.kr/www/selectBbsNttList.do?bbsNo=66&key=194"
+  },
+  {
+    "county": "옥천군",
+    "board": "공지사항",
+    "url": "https://www.oc.go.kr/www/selectBbsNttList.do?bbsNo=36&key=232&"
+  },
+  {
+    "county": "옥천군",
+    "board": "고시/공고",
+    "url": "https://www.oc.go.kr/www/selectBbsNttList.do?bbsNo=40&key=236&"
+  },
+  {
+    "county": "진천군",
+    "board": "공지사항",
+    "url": "https://www.jincheon.go.kr/home/sub.do?menukey=2908"
+  },
+  {
+    "county": "진천군",
+    "board": "고시/공고",
+    "url": "https://www.jincheon.go.kr/home/sub.do?menukey=237"
+  },
+  {
+    "county": "음성군",
+    "board": "공지사항",
+    "url": "https://www.eumseong.go.kr/www/selectBbsNttList.do?bbsNo=6&key=350"
+  },
+  {
+    "county": "음성군",
+    "board": "고시/공고",
+    "url": "https://www.eumseong.go.kr/www/selectEminwonList.do?key=352"
+  },
+  {
+    "county": "홍성군",
+    "board": "공지사항",
+    "url": "https://www.hongseong.go.kr/bbs/BBSMSTR_000000000841/list.do"
+  },
+  {
+    "county": "홍성군",
+    "board": "고시/공고",
+    "url": "https://www.hongseong.go.kr/prog/saeolGosi/kor/sub03_0102/GOSI_ALL/list.do"
+  },
+  {
+    "county": "예산군",
+    "board": "공지사항",
+    "url": "https://www.yesan.go.kr/bbs/BBSMSTR_000000000046/list.do"
+  },
+  {
+    "county": "예산군",
+    "board": "고시/공고",
+    "url": "https://www.yesan.go.kr/prog/saeolGosi/GOSI/kor/sub04_03_01/list.do"
+  },
+  {
+    "county": "태안군",
+    "board": "공지사항",
+    "url": "https://www.taean.go.kr/cop/bbs/BBSMSTR_000000000036/selectBoardList.do"
+  },
+  {
+    "county": "태안군",
+    "board": "고시/공고",
+    "url": "https://www.taean.go.kr/kor/sub02_03_03.do"
+  }
+]

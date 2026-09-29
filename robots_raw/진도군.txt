@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cms/*
+
+Allow: /
+Sitemap: https://www.jindo.go.kr/jindoplus/sitemap.xml

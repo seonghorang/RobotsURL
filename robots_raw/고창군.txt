@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /images/
+Disallow: /upload_data/
+DisAllow:/search
+Disallow: /jbsports
+Disallow: /board/list.gochang?boardId=BBS_0000095
+Disallow: /board/view.gochang?boardId=BBS_0000095

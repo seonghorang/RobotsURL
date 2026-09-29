@@ -1,0 +1,16 @@
+User-agent: Yeti
+Allow: /html/
+
+User-agent: Googlebot
+Allow: /html/
+Disallow: /mecsearch/
+Disallow: /*/_board/
+
+User-agent: Daum
+Allow: /html/
+
+User-agent: Daumoa
+Allow: /html/
+
+User-agent: *
+Disallow: /

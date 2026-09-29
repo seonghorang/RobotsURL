@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /contentsView.do?pageId=www403
+Disallow: /siiru/
+Disallow: /pg/UserLocationInfoView.do?sn=23
+Disallow: /pg/UserLocationInfoView.do?sn=23&place_lat=35.0659111&place_lon=126.516624&place_title=함평군청
+Disallow: /pg/pgElection.do
+Disallow: /search/search.do
+Disallow: /bbs/
